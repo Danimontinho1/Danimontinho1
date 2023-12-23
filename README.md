@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Sistemas en información de la U.N.S.E Argentina.</h3>
 <img align="right" alt="coding width="200 src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
-- 🔭 Implementé un bot de Discord [Offline] [TayAssist](https://discord.gg/GAjSbah6)
+- 🔭 Implementé un bot de Discord [Offline] [Juicy Bot](https://discord.gg/GAjSbah6)
 
 - 🌱 Sigo aprendiendo, y sumando conocimientos en **[Python], [Java]**
 
