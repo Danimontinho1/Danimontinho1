@@ -6,7 +6,7 @@
 
 - 🌱 Sigo aprendiendo, y sumando conocimientos en **[Python], [Java]**
 
-- Estoy trabajando en otro bot llamado Valhalla que es para un servidor de RolePlay GTA V [Valhalla](https://discord.gg/sMhEZ8cs)
+  -Trabajé en otro bot llamado Valhalla que es para un servidor de RolePlay GTA V [Valhalla](https://discord.gg/sMhEZ8cs)
 
 - Tengo conocimientos en Adobe ilustrator, Photoshop, Indesign. [@Saicographic](@Saicographic)
 
